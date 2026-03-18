@@ -1,16 +1,26 @@
-## Hi there 👋
+# Francisco Javier Párraga Oliver
+**Desarrollador Web Full‑Stack Junior**  
+📧 javip200555@gmail.com · 🌐 https://portfolio-javieroliver-web.vercel.app/ · GitHub: https://github.com/Javieroliver-web
 
-<!--
-**Javieroliver-web/Javieroliver-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Sobre mí
+Soy **Desarrollador Web Full‑Stack Junior** con experiencia práctica adquirida durante mis estudios y en entornos profesionales. Trabajo con tecnologías de frontend y backend y me esfuerzo por escribir código mantenible, eficiente y accesible. Me considero ambicioso, positivo y seguro en mis decisiones; disfruto del trabajo en equipo, escucho activamente y aprendo de compañeros de distintas edades y perfiles. Busco crecer en proyectos retadores donde aportar valor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tecnologías
+**Frontend:** HTML5; CSS; JavaScript; Angular; Bootstrap; Thymeleaf  
+**Backend:** Java; Spring Boot; Node.js; SQL; PL/SQL; PostgreSQL  
+**Herramientas y DevOps:** Git; GitHub; GitLab; Docker; Google Cloud; Jenkins; Postman
+
+---
+
+## Proyectos destacados
+- **Vesta (TFG)** — Marketplace de seguros. Demo y repositorios enlazados en mi portfolio.  
+- **Portfolio** — Este sitio; código y CV disponibles en mi GitHub.
+
+---
+
+## Contacto
+Prefiero contacto por **email** o **LinkedIn** (enlace en el portfolio). Disponible para prácticas y posiciones junior.
