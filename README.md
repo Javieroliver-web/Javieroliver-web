@@ -1,6 +1,6 @@
 # Francisco Javier Párraga Oliver
 **Desarrollador Web Full‑Stack Junior**  
-📧 javip200555@gmail.com · 🌐 https://portfolio-javieroliver-web.vercel.app/ · GitHub: https://github.com/Javieroliver-web
+📧 javip200555@gmail.com · 🌐 https://portfolio-javieroliver-web.vercel.app/
 
 ---
 
