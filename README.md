@@ -11,7 +11,7 @@ Soy **Desarrollador Web Full‑Stack Junior** con experiencia práctica adquirid
 
 ## Tecnologías
 **Frontend:** HTML5; CSS; JavaScript; Angular; Bootstrap; Thymeleaf  
-**Backend:** Java; Spring Boot; Node.js; SQL; PL/SQL; PostgreSQL  
+**Backend:** Java; Spring Boot; Node.js; SQL; PostgreSQL
 **Herramientas y DevOps:** Git; GitHub; GitLab; Docker; Google Cloud; Jenkins; Postman
 
 ---
